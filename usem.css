@@ -681,7 +681,7 @@
             margin-top: 25px;
         } 
         .footer{
-            height: 105px;
+            height: 85px;
             width: 100%;
             background: #002042;
             display: block;
@@ -716,7 +716,7 @@
             text-decoration: none;
          }
              
-        @media (min-width: 400px) and (max-width: 445px) {
+        @media (min-width: 370px) and (max-width: 445px) {
                 .cover{
                     width: 100%;
                     background: #003875;
