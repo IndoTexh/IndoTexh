@@ -27,6 +27,7 @@
     font-size: 12px;
     border-top-left-radius: 3px;
     border-bottom-left-radius: 3px;
+
    }
    .nav-search-icon{
     padding: 5px 5px;
@@ -179,7 +180,7 @@
     
     .contain-footer .contain-child-footer{
         flex-direction: column;
-        gap: 20px;
+        gap: 0px;
         padding: 0;
         margin-bottom: 20px;
         
