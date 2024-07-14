@@ -29,14 +29,14 @@
     border-bottom-left-radius: 3px;
    }
    .nav-search-icon{
-    padding: 3px 5px;
+    padding: 5px 5px;
     max-width: 25px;
    }
    .nav-cart h4{
     display: none;
    }
    .nav-cart img{
-    width: 25px;
+    width: 22px;
    }
    .nav-cart label{
     right: 8px;
@@ -175,16 +175,13 @@
         align-items: flex-start;
         padding-left: 20px;
         transition: all 0.4s ease;
-        position: relative;
     }
     
     .contain-footer .contain-child-footer{
-        display: flex;
         flex-direction: column;
         gap: 20px;
-        white-space: nowrap;
         padding: 0;
-        display: none;
+        margin-bottom: 20px;
         
     }
     .child-footer h1{
@@ -207,6 +204,7 @@
     .footer{
         padding: 40px 20px  20px;
         align-items: flex-start;
+        display: none;
     }
     
     .footer p{
